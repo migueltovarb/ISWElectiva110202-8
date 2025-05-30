@@ -27,4 +27,4 @@ npm run dev
 
 insta
 link de front azure https://lively-grass-07977a903.6.azurestaticapps.net/
-link del backend azure pedidosrestaurante-fzeadhb3eahxg2cb.northeurope-01.azurewebsites.net
+link del backend azure https://pedidosrestaurante-fzeadhb3eahxg2cb.northeurope-01.azurewebsites.net/
