@@ -3,7 +3,9 @@ from django.urls import path, include
 
 
 
-urlpatterns = [  # <--- Asegúrate de que esto sea una LISTA (con corchetes [])
+
+urlpatterns = [  
+   
     path("admin/", admin.site.urls),
     path("api/restaurante/", include("AppRestaurante.urls")),
     path("api/usuarios/", include("AppUsuarios.urls")),
